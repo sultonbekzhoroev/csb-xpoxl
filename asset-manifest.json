@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sultonbekzhoroev.github.io/csb-xpoxl/static/css/main.e09ae9e2.chunk.css",
+    "main.js": "https://sultonbekzhoroev.github.io/csb-xpoxl/static/js/main.ec4165b3.chunk.js",
+    "main.js.map": "https://sultonbekzhoroev.github.io/csb-xpoxl/static/js/main.ec4165b3.chunk.js.map",
+    "runtime-main.js": "https://sultonbekzhoroev.github.io/csb-xpoxl/static/js/runtime-main.4004c8c0.js",
+    "runtime-main.js.map": "https://sultonbekzhoroev.github.io/csb-xpoxl/static/js/runtime-main.4004c8c0.js.map",
+    "static/js/2.61c6a219.chunk.js": "https://sultonbekzhoroev.github.io/csb-xpoxl/static/js/2.61c6a219.chunk.js",
+    "static/js/2.61c6a219.chunk.js.map": "https://sultonbekzhoroev.github.io/csb-xpoxl/static/js/2.61c6a219.chunk.js.map",
+    "index.html": "https://sultonbekzhoroev.github.io/csb-xpoxl/index.html",
+    "static/css/main.e09ae9e2.chunk.css.map": "https://sultonbekzhoroev.github.io/csb-xpoxl/static/css/main.e09ae9e2.chunk.css.map",
+    "static/js/2.61c6a219.chunk.js.LICENSE.txt": "https://sultonbekzhoroev.github.io/csb-xpoxl/static/js/2.61c6a219.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4004c8c0.js",
+    "static/js/2.61c6a219.chunk.js",
+    "static/css/main.e09ae9e2.chunk.css",
+    "static/js/main.ec4165b3.chunk.js"
+  ]
+}
